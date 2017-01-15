@@ -1,0 +1,7 @@
+<object class="Project">
+    <property name="code_generation">C++</property>
+    <property name="file">wxRlibResources</property>
+    <property name="name">wxRlib</property>
+    <property name="path">..\</property>
+    <property name="relative_path">1</property>
+</object>

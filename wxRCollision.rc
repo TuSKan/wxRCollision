@@ -1,0 +1,16 @@
+/////////////////////////////////////////////////////////////////////////////
+// Name:        wxRCollision/wxRCollision.rc
+// Purpose:     a standard Win32 .rc file for the wxWidgets application
+// Created:     4/3/2006
+// Licence:     wxWindows licence
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+// resource bitmaps for buttons
+play  BITMAP "res\\play.bmp"
+slow  BITMAP "res\\slow.bmp"
+pause BITMAP "res\\pause.bmp"
+stop  BITMAP "res\\stop.bmp"
+
+#include <../wxRlib/wxRlib.rc>
